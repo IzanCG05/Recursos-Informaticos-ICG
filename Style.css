@@ -1,1 +1,12 @@
-
+<html>
+<head <style>
+  body {
+    background-color: #f0f0f0;
+  }
+</style> 
+  <h1>Index HTML</h1>
+  <H2>¿Qué es un Index HTML</H2>
+  <p color: blue>Un idenx en HTML es una página de inicio o portada principal que un servidor web carga de forma predeterminada cuando alguien visita un dominio sin especificar un archivo en la URL</p>
+  <button>Enviar</button>
+</head>
+</html>
