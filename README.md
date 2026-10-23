@@ -1,2 +1,2 @@
-# Recursos-Inform-ticos-ICG
+# Recursos-Informáticos-ICG
 Mi segundo repositorio
